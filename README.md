@@ -1,4 +1,4 @@
-# Targeted British Pound currency exchange analysis 
+# British Pound currency exchange analysis 
 
 
 
