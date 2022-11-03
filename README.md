@@ -1,6 +1,9 @@
 # British Pound currency exchange analysis 
 
 
+Used Machine Learning Models: 
+- LSMT
+- ARIMA
 
 # Addressed questions
 
