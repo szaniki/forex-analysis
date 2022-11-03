@@ -1,1 +1,1 @@
-# Foreign exchange analysis with the focus on the British Pounts
+# British Pound targeted currency exchange analysis 
