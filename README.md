@@ -1,6 +1,7 @@
-# Trend Analysis on British Pound
+# Forex Trend Analysis 
 
-into will come her
+There are 180 different kinds of official currencies in the world. However, most international forex trades and payments are made using the U.S. dollar, British pound, Japanese yen, and the Euro so my project follows this trend and focuses on the British Pound. This project was aimed to build machine learning models to predict the foreign exchange market by reviewing and analysing the past 2 decades.
+
 
 ## Usage  
    
