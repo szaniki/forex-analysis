@@ -7,7 +7,7 @@ There are 180 different kinds of official currencies in the world. However, most
 
 ## Deep learning models:
 
-Two different time series models were used in this project to analyse historical financial data collected through Yahoo Finance API.
+Two different time series models were used to analyse historical financial data collected through Yahoo Finance API.
    
 - LSTM, Long Short-Term Memory 
 
