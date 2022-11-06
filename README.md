@@ -27,11 +27,11 @@ This project was carried out purely for eductional purposes, in which circumstan
 
 ## Tools
 
-- Yahoo Finance API
 - Python
-- Keras
 - Matplotlib/Seaborn
+- Keras
 - Time Series Analysis
+- Yahoo Finance API
 
 
 ## License
