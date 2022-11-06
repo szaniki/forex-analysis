@@ -16,7 +16,7 @@ Two different time series models were used to analyse historical financial data 
 
 ## Developer instructions
 
-This project was carried out purely for eductional purposes, in which circumstances it does not serve as suggestion when to invest or when to buy. Future improvement could be achieved by extending the scope of analysis to different currency pairs, targeting further economic shock period and involving further time series models (e.g. Prophet) to achieve more accurate financial predicitons. 
+This project was carried out purely for eductional purposes, in which circumstances it does not serve as suggestion when to invest or when to buy. Future improvement could be achieved by extending the scope of analysis to different currency pairs, targeting further economic shock periods and involving further time series models (e.g. Prophet) to achieve more accurate financial predicitons. 
 
 ### Folders and files
 
