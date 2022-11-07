@@ -23,7 +23,7 @@ This project was carried out purely for eductional purposes, in which circumstan
 - **CSV's.**: Some of the dataframes accessed from the API during the project have been saved as CSV. 
 - **Images.** The most relevant graphs obtained during the analysis, plus one image downloaded from Google.
 - **Jupyter notebooks.** Each saved with informative names based on the segment of project they represent.
-- **Presentation.pptx** Presentation based on the graphes plotted duing the analysis, plus the output of my time series analysis - deep learning machine learning model. 
+- **Presentation.pptx** Presentation based on the graphes plotted during the analysis, plus the output of my time series analysis - deep learning machine learning model. 
 
 ## Tools
 
